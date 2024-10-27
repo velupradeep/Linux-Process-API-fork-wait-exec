@@ -1,6 +1,6 @@
 # NAME: PRADEEP V
 # REG NO: 212223240119
-# Linux-Process-API-fork-wait-exec-
+# EX-02 Linux-Process-API-fork-wait-exec-
 Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
